@@ -1,0 +1,12 @@
+# Ignore compiled and temporary files
+*.exe
+*.class
+*.pyc
+
+# Ignore documents and images
+*.docx
+*.jpg
+*.png
+
+# Ignore entire folders
+screen_captures/

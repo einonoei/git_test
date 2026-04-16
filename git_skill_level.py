@@ -1,0 +1,4 @@
+# File: git_skill_level.py
+# Description: Small program for Basics of Git course
+
+print("I am a beginner with Git")
