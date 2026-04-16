@@ -10,3 +10,4 @@
 
 # Ignore entire folders
 screen_captures/
+.DS_Store
